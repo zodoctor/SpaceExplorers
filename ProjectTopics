@@ -1,0 +1,20 @@
+
+color to sound: https://scienceland.wikispaces.com/file/view/MarciaRojasPoster.pdf
+
+heart rate monitor: https://www.sparkfun.com/products/11574
+
+instrument/guitar tuner: http://www.instructables.com/id/Arduino-Guitar-Tuner/?ALLSTEPS
+
+sound changes with finger movements (w/ flex sensor): https://www.sparkfun.com/products/10264
+
+temperature to sound: https://learn.sparkfun.com/tutorials/mlx90614-ir-thermometer-hookup-guide?_ga=1.191276713.242202950.1447447031
+
+Homemade guitar: http://www.wikihow.com/Make-a-Rubber-Band-Guitar
+
+Smart alarm clock: make an alarm clock with a force sensor which you could put under your pillow.  When the alarm goes off, it keeps ringing until the force sensor senses that your head is no longer on the pillow. 
+
+Security system: ring alarm if door is opened, vibrations in the room, or moving objects. (eg. https://www.sparkfun.com/products/10293, etc.)
+
+Clapper light: turn on a light with a clap (http://www.instructables.com/id/The-Viciously-Simple-Clap-ON-Clap-OFF-Circuit-For-/)
+
+Make classic game of pong with arduino: http://www.makeuseof.com/tag/how-to-recreate-the-classic-pong-game-using-arduino/
