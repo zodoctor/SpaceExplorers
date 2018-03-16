@@ -34,6 +34,10 @@ void loop() {
   // photosensor.
   // 
   sensorVal = analogRead(sensorPin);
+  //Uncomment print statements to for debugging
+  // WARNING: print statements are very slow and
+  // can limit the frequency of pins going HIGH
+  // to LOW if in the switching loop
   //Serial.print("Sensor Value:");
   //Serial.print(sensorVal);
   //Serial.print("\n");
@@ -67,6 +71,5 @@ void loop() {
   digitalWrite(ledPin, LOW);
   // Wait for periodMilliseconds/2
   delayMicroseconds(periodMicroseconds/2);
-  count = count+1;
 
 }
