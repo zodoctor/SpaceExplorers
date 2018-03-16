@@ -1,4 +1,8 @@
-
+/* This script will play a tone and
+ *  blink an LED with frequecy depending
+ *  on the flux incident on a photoresistor.
+ * 
+ */
 int ledPin = 12;      // select the pin for the LED
 int speakerPin = 8; // select pin for speaker output
 int sensorPin = A0; // select pin for reading in photocell
