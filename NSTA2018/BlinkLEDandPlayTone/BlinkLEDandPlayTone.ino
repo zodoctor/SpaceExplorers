@@ -6,7 +6,7 @@
  */
 int ledPin = 12;      // select the pin for the LED
 int speakerPin = 8; // select pin for speaker output
-double frequency = 1000; // declare variable, Hz
+double frequency = 1; // declare variable, Hz
 unsigned int periodMilliseconds = 0; // declare variable, milliseconds
 
 void setup() {
